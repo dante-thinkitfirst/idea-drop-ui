@@ -1,3 +1,46 @@
+# Idea Drop – Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+Frontend for the **Idea Drop** platform — a web app for sharing, browsing, and managing creative ideas.  
+This project is part of a full-stack **MERN application (MongoDB, Express, React, Node.js)** and demonstrates modern React development with responsive UI, client-side routing, and integration with a backend API.
+
+---
+
+## 🚀 Features
+- Submit, edit, and delete ideas
+- Browse idea feed with filtering
+- Responsive layout with TailwindCSS
+- Routing & navigation with TanStack Router
+- API integration with Idea Drop backend
+
+---
+
+## 🛠️ Tech Stack
+- **React + TanStack Router**
+- **Vite**
+- **TailwindCSS**
+- **Axios / Fetch API**
+- Part of a **MERN stack** (works with Node/Express backend + MongoDB)
+
+---
+
+## 📦 Installation
+```bash
+git clone https://github.com/dante-thinkitfirst/idea-drop-ui.git
+cd idea-drop-ui
+npm install
+npm run dev
+
+```
+
+
+
+
+
 Welcome to your new TanStack app! 
 
 # Getting Started
